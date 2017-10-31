@@ -1,10 +1,10 @@
-# Project Title
+# [Eigo Sensei](http://www.adlyloukil.jp)
 
-Simple Index page created by Adly Loukil and the developer also provided the basic information about him.
+-Simple Index page about Adly created by Adly Loukil and various open source contributors during Hacktoberfest
 
 ## Built With
 
-Basic HTML, CSS, Javascript, bootstrap v3, and jquery 1.10
+Basic HTML, CSS, Javascript, Bootstrap v3, and jquery 1.10
 
 ## Used languages
 
@@ -13,10 +13,7 @@ Basic HTML, CSS, Javascript, bootstrap v3, and jquery 1.10
 
 ## Future scope
 
-- This website will be soon launched in Japanese language too.
-
-## Contact 
-- links of social network of Adly Loukil
+- This website will have an accurate translation in Japanese language.
 
 ## Influence to Open Source comminity
 - helps to make a first step in contributing on github
