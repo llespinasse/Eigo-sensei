@@ -1,6 +1,6 @@
 # [Eigo Sensei](http://www.adlyloukil.jp)
 
-Simple Index page about Adly created by Adly Loukil and various open source contributors during Hacktoberfest.
+Simple Index page about Adly created by Adly Loukil and various open source [contributors](https://github.com/adlyloukil/Eigo-sensei/graphs/contributors) during [Hacktoberfest.](https://hacktoberfest.digitalocean.com)
 
 ## Built With
 
