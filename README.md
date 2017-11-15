@@ -20,7 +20,7 @@ Aided people to make a first step in contributing on GitHub.
 
 ## Preview
 ![english](https://user-images.githubusercontent.com/22683645/32845458-121e5b8a-ca68-11e7-90a0-a627d5565a32.png)
-![japanese](https://user-images.githubusercontent.com/22683645/32845689-b9c4e3a4-ca68-11e7-8f63-9b072057d1f6.png)
+![japanese](https://user-images.githubusercontent.com/22683645/32845760-ebc0d1b0-ca68-11e7-84d1-255076e519c0.png)
 
 
 ## Disclaimer
