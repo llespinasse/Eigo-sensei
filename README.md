@@ -15,7 +15,7 @@ HTML, CSS, Javascript, [BootStrap](http://getbootstrap.com), and [jQuery](https:
 
 This website will have an accurate translation in Japanese language.
 
-## Influence to Open Source comminity
+## Influence to Open Source Community
 Aided people to make a first step in contributing on GitHub.
 
 ## Preview
