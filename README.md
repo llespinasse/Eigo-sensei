@@ -19,7 +19,9 @@ This website will have an accurate translation in Japanese language.
 Aided people to make a first step in contributing on GitHub.
 
 ## Preview
-![adlyloukiljp](https://user-images.githubusercontent.com/22683645/32230856-676cdecc-be97-11e7-8e87-229c205c168f.png)
+![english](https://user-images.githubusercontent.com/22683645/32845458-121e5b8a-ca68-11e7-90a0-a627d5565a32.png)
+![japanese](https://user-images.githubusercontent.com/22683645/32845689-b9c4e3a4-ca68-11e7-8f63-9b072057d1f6.png)
+
 
 ## Disclaimer
 Website is based off [Coming Sssoon Page](https://www.creative-tim.com/product/coming-sssoon-page) by [Creative Tim.](https://www.creative-tim.com)
