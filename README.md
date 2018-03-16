@@ -9,18 +9,18 @@ HTML, CSS, Javascript, [BootStrap](http://getbootstrap.com), and [jQuery](https:
 ## Used languages
 
 - English
-- Japanese (In progress)
+- Japanese
 
 ## Future scope
 
-This website will have an accurate translation in Japanese language.
+To improve website aesthetics.
 
 ## Influence to Open Source Community
 Aided people to make a first step in contributing on GitHub.
 
 ## Preview
 ![english](https://user-images.githubusercontent.com/22683645/32845458-121e5b8a-ca68-11e7-90a0-a627d5565a32.png)
-![japanese](https://user-images.githubusercontent.com/22683645/32845760-ebc0d1b0-ca68-11e7-84d1-255076e519c0.png)
+![japanese](https://user-images.githubusercontent.com/22683645/37548841-31f28dfe-29be-11e8-9512-a58c0c2e0a36.png)
 
 
 ## Disclaimer
